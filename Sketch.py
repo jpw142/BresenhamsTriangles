@@ -6,7 +6,7 @@ First version Created on 09/28/2018
 :author: micou(Zezhou Sun)
 :version: 2021.2.1
 
-Jack Weber U97268134
+Jack Weber
 I added the draw line method that uses bresenham's algorithm along with some adjustments for different slope cases to draw line
 - Has option of smooth / flat shading
 I changed it so the draw line call with left click actually calls the drawLine method
